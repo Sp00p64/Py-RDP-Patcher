@@ -1,5 +1,5 @@
 # Py-RDP-Patcher
-Py-RDP-Patcher is a tool  made to patch the termsrv file to allow simultaneous RDP sessions
+Py-RDP-Patcher is a tool  made in python to patch the termsrv file to allow simultaneous RDP sessions
 
 ## **Setup Guide:**
 This script only requires the "art" library which is installed by executing :
